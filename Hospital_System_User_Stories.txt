@@ -1,0 +1,22 @@
+Hospital System User Stories
+1) As a user (patient, floor manager, or surgeon) I would like to register with the application using my name, age, email address, mobile number, and password so that my records are kept private and secure.
+2) As a user I want to authenticate myself using my email and password so I can access my private records and conduct transactions securely.
+3) As a user I would like to change my password if I am logged in to keep it up to date.
+4) As a user I want to be able to log out from the app so that the next person cannot use my account.
+5) As a staff member (floor manager or surgeon) I would like to register with my staff identification number so that I will get paid.
+6) As a floor manager I would like to specify the floor that I manage so that I do not try and manage another floor.
+7) As a surgeon I would like to register with my specialty (General Surgeon, Orthopaedic Surgeon, Cardiothoracic Surgeon, or Neurosurgeon) so that I am not asked to operate on a patient outside my specialty.
+8) As a patient I want to display my name, age, email address, and mobile number so I can check that the details are correct.
+9) As a floor manager I want to display my floor number, staff identification number, name, age, email address, and mobile number so I can check that the details are correct.
+10) As a surgeon I want to display my specialty, staff identification number, name, age, email address, and mobile number so I can check that the details are correct.
+11) As a patient I would like to check into the hospital so that I can be assigned a room.
+12) As a floor manager I would like to assign a patient one of the 10 single-bedded rooms so that our floor is not overwhelmed by patients.
+13) As a patient I would like to know which room I have been assigned to so that I have somewhere to prepare, recover, and sleep.
+14) As a floor manager I would like to assign a patient to one of the surgeons using a specific time and date so that the surgeon shows up.
+15) As a patient I would like to see who my surgeon is to ensure they are operating on the correct part of my body.
+16) As a patient I would like to see what date and time my surgery is so I can inform my loved ones.
+17) As a surgeon I would like to view my list of upcoming patients so that I can get to know them beforehand.
+18) As a surgeon I would like to view my list of upcoming surgeries sorted temporally from the next surgery to the last surgery to ensure that I am not double-booked.
+19) As a surgeon I would like to perform the surgery on a patient so that they can get better.
+20) As a patient I would like to check myself out of the hospital after my surgery so that I can go home.
+21) As a floor manager I would like to know when a patient has checked out so that I can reassign the room to someone else.
