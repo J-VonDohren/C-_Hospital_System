@@ -1,0 +1,14 @@
+C:\Users\Paste\source\repos\Assignment2FinalDesign\bin\Debug\net8.0\Assignment2FinalDesign.exe
+C:\Users\Paste\source\repos\Assignment2FinalDesign\bin\Debug\net8.0\Assignment2FinalDesign.deps.json
+C:\Users\Paste\source\repos\Assignment2FinalDesign\bin\Debug\net8.0\Assignment2FinalDesign.runtimeconfig.json
+C:\Users\Paste\source\repos\Assignment2FinalDesign\bin\Debug\net8.0\Assignment2FinalDesign.dll
+C:\Users\Paste\source\repos\Assignment2FinalDesign\bin\Debug\net8.0\Assignment2FinalDesign.pdb
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.AssemblyInfoInputs.cache
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.AssemblyInfo.cs
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.csproj.CoreCompileInputs.cache
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.dll
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\refint\Assignment2FinalDesign.dll
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.pdb
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\Assignment2FinalDesign.genruntimeconfig.cache
+C:\Users\Paste\source\repos\Assignment2FinalDesign\obj\Debug\net8.0\ref\Assignment2FinalDesign.dll
