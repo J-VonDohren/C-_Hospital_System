@@ -1,0 +1,14 @@
+C:\Users\Paste\source\repos\Assignment2Hospital\bin\Debug\net8.0\Assignment2Hospital.exe
+C:\Users\Paste\source\repos\Assignment2Hospital\bin\Debug\net8.0\Assignment2Hospital.deps.json
+C:\Users\Paste\source\repos\Assignment2Hospital\bin\Debug\net8.0\Assignment2Hospital.runtimeconfig.json
+C:\Users\Paste\source\repos\Assignment2Hospital\bin\Debug\net8.0\Assignment2Hospital.dll
+C:\Users\Paste\source\repos\Assignment2Hospital\bin\Debug\net8.0\Assignment2Hospital.pdb
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.AssemblyInfoInputs.cache
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.AssemblyInfo.cs
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.dll
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\refint\Assignment2Hospital.dll
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.pdb
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\Assignment2Hospital.genruntimeconfig.cache
+C:\Users\Paste\source\repos\Assignment2Hospital\obj\Debug\net8.0\ref\Assignment2Hospital.dll
