@@ -1,0 +1,136 @@
+=================================
+Welcome to Gardens Point Hospital
+=================================
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Bob Smith is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Jim Lee is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Leo Bell is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Bob Smith welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Bob Smith has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Jim Lee welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Jim Lee has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Leo Bell welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Leo Bell has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+Goodbye. Please stay safe.

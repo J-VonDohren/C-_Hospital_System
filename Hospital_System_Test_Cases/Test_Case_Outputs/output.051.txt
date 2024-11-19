@@ -1,0 +1,19 @@
+=================================
+Welcome to Gardens Point Hospital
+=================================
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+#####
+#Error - Invalid Menu Option, please try again.
+#####
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+Goodbye. Please stay safe.

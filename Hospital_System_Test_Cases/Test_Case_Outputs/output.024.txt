@@ -1,0 +1,88 @@
+=================================
+Welcome to Gardens Point Hospital
+=================================
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Bob Smith is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+
+Register as which type of staff:
+1. Floor manager
+2. Surgeon
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a floor manager.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Please enter in your staff ID:
+Please enter in your floor number:
+Sam Green is registered as a floor manager.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+
+Register as which type of staff:
+1. Floor manager
+2. Surgeon
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a surgeon.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Please enter in your staff ID:
+Please choose your speciality:
+1. General Surgeon
+2. Orthopaedic Surgeon
+3. Cardiothoracic Surgeon
+4. Neurosurgeon
+Please enter a choice between 1 and 4.
+Jess Jones is registered as a surgeon.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+Goodbye. Please stay safe.

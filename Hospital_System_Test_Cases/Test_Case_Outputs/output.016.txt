@@ -1,0 +1,59 @@
+=================================
+Welcome to Gardens Point Hospital
+=================================
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+
+Register as which type of staff:
+1. Floor manager
+2. Surgeon
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a floor manager.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Please enter in your staff ID:
+Please enter in your floor number:
+Sam Green is registered as a floor manager.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Sam Green welcome back.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Floor manager Sam Green has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+Goodbye. Please stay safe.
