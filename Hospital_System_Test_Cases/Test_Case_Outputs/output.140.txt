@@ -1,0 +1,888 @@
+=================================
+Welcome to Gardens Point Hospital
+=================================
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Bob Smith is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Bob Smith welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Bob Smith has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Bob Smith has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Jim Lee is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Jim Lee welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Jim Lee has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Jim Lee has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Leo Bell is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Leo Bell welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Leo Bell has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Leo Bell has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+David Brown is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello David Brown welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient David Brown has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient David Brown has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Amina Diop is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Amina Diop welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Amina Diop has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Amina Diop has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Carlos Lopez is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Carlos Lopez welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Carlos Lopez has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Carlos Lopez has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Mei Lin is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Mei Lin welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Mei Lin has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Mei Lin has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Priya Parel is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Priya Parel welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Priya Parel has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Priya Parel has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Kwame Mensah is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Kwame Mensah welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Kwame Mensah has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Kwame Mensah has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Sofia Ramirez is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Sofia Ramirez welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Sofia Ramirez has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Sofia Ramirez has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a patient.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Emma Johnson is registered as a patient.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Emma Johnson welcome back.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check in
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Emma Johnson has been checked in.
+
+Patient Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Check out
+4. See room
+5. See surgeon
+6. See surgery date and time
+7. Log out
+Please enter a choice between 1 and 7.
+Patient Emma Johnson has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Register as which type of user:
+1. Patient
+2. Staff
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+
+Register as which type of staff:
+1. Floor manager
+2. Surgeon
+3. Return to the first menu
+Please enter a choice between 1 and 3.
+Registering as a floor manager.
+Please enter in your name:
+Please enter in your age:
+Please enter in your mobile number:
+Please enter in your email:
+Please enter in your password:
+Please enter in your staff ID:
+Please enter in your floor number:
+Sam Green is registered as a floor manager.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+
+Login Menu.
+Please enter in your email:
+Please enter in your password:
+Hello Sam Green welcome back.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+ 1. Bob Smith
+ 2. Jim Lee
+ 3. Leo Bell
+ 4. David Brown
+ 5. Amina Diop
+ 6. Carlos Lopez
+ 7. Mei Lin
+ 8. Priya Parel
+ 9. Kwame Mensah
+10. Sofia Ramirez
+11. Emma Johnson
+Please enter a choice between 1 and 11.
+Please enter your room (1-10):
+Patient Bob Smith has been assigned to room number 1 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+ 1. Jim Lee
+ 2. Leo Bell
+ 3. David Brown
+ 4. Amina Diop
+ 5. Carlos Lopez
+ 6. Mei Lin
+ 7. Priya Parel
+ 8. Kwame Mensah
+ 9. Sofia Ramirez
+10. Emma Johnson
+Please enter a choice between 1 and 10.
+Please enter your room (1-10):
+Patient Jim Lee has been assigned to room number 2 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Leo Bell
+2. David Brown
+3. Amina Diop
+4. Carlos Lopez
+5. Mei Lin
+6. Priya Parel
+7. Kwame Mensah
+8. Sofia Ramirez
+9. Emma Johnson
+Please enter a choice between 1 and 9.
+Please enter your room (1-10):
+Patient Leo Bell has been assigned to room number 3 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. David Brown
+2. Amina Diop
+3. Carlos Lopez
+4. Mei Lin
+5. Priya Parel
+6. Kwame Mensah
+7. Sofia Ramirez
+8. Emma Johnson
+Please enter a choice between 1 and 8.
+Please enter your room (1-10):
+Patient David Brown has been assigned to room number 4 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Amina Diop
+2. Carlos Lopez
+3. Mei Lin
+4. Priya Parel
+5. Kwame Mensah
+6. Sofia Ramirez
+7. Emma Johnson
+Please enter a choice between 1 and 7.
+Please enter your room (1-10):
+Patient Amina Diop has been assigned to room number 5 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Carlos Lopez
+2. Mei Lin
+3. Priya Parel
+4. Kwame Mensah
+5. Sofia Ramirez
+6. Emma Johnson
+Please enter a choice between 1 and 6.
+Please enter your room (1-10):
+Patient Carlos Lopez has been assigned to room number 6 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Mei Lin
+2. Priya Parel
+3. Kwame Mensah
+4. Sofia Ramirez
+5. Emma Johnson
+Please enter a choice between 1 and 5.
+Please enter your room (1-10):
+Patient Mei Lin has been assigned to room number 7 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Priya Parel
+2. Kwame Mensah
+3. Sofia Ramirez
+4. Emma Johnson
+Please enter a choice between 1 and 4.
+Please enter your room (1-10):
+Patient Priya Parel has been assigned to room number 8 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Kwame Mensah
+2. Sofia Ramirez
+3. Emma Johnson
+Please enter a choice between 1 and 3.
+Please enter your room (1-10):
+Patient Kwame Mensah has been assigned to room number 9 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Please select your patient:
+1. Sofia Ramirez
+2. Emma Johnson
+Please enter a choice between 1 and 2.
+Please enter your room (1-10):
+Patient Sofia Ramirez has been assigned to room number 10 on floor 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+#####
+#Error - All rooms on this floor are assigned.
+#####
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Your details.
+Name: Sam Green
+Age: 40
+Mobile phone: 0987654321
+Email: sam@email.com
+Staff ID: 201
+Floor: 3.
+
+Floor Manager Menu.
+Please choose from the menu below:
+1. Display my details
+2. Change password
+3. Assign room to patient
+4. Assign surgery
+5. Unassign room
+6. Log out
+Please enter a choice between 1 and 6.
+Floor manager Sam Green has logged out.
+
+Please choose from the menu below:
+1. Login as a registered user
+2. Register as a new user
+3. Exit
+Please enter a choice between 1 and 3.
+Goodbye. Please stay safe.
