@@ -1,4 +1,4 @@
-# CSharp_Hospital_System
+# C# Hospital System
 This repository contains a hospital system project developed in C#. The project demonstrates the application of core object-oriented programming principles, including:
 * Encapsulation
 * Inheritance
