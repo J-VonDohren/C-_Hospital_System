@@ -5,6 +5,7 @@ This repository contains a Hospital System with Two Implementations:
 ### Key changes
 - removed magic numbers and added exceptions for exception handling
 - split user class up into multiple child classes to reduce coupling
+- optimised preexisting methods to reduce time complexity
 
 ---
 ## Features
