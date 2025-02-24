@@ -21,16 +21,56 @@ This repository contains a Hospital System with Two Implementations:
 ---
 
 ## Initial System Startup
-The System utilises RAM which allows the log in data 
+The System utilises RAM which means the log in data will be lost for users once the program is shut down, this will be combatted in the future with the implementation of a database to store all staff and patient data
+### User Sign up CLI
+### Patient
+1. Enter your name
+2. Enter your age
+3. Enter your Mobile Number
+4. Enter your Email
+5. Enter your Password
+### Floor Manager
+1. Enter your name
+2. Enter your age
+3. Enter your Mobile Number
+4. Enter your Email
+5. Enter your Password
+6. Enter your Staff ID
+7. Enter your Floor Number
+
+### Surgeon
+1. Enter your name
+2. Enter your age
+3. Enter your Mobile Number
+4. Enter your Email
+5. Enter your Password
+6. Enter your Staff ID
+7. Select a speciality
 
 ---
 ## CLI Usage
 ### Patient
-
+1. Display my details
+2. Change password
+3. Check in / check out
+4. see room
+5. see surgeon
+6. see surgery date and time
+7. log out
 ### Floor Manager
-
+1. Display my details
+2. Change password
+3. assign room to patient
+4. assign surgery
+5. unassign room
+6. log out
 ### Surgeon
-
+1. Display my details
+2. Change password
+3. see your list of patients
+4. see your schedule
+5. perform surgery
+6. log out
 ---
 ## Contributing
 1. Fork the repository
