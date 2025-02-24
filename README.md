@@ -2,7 +2,11 @@
 This repository contains a Hospital System with Two Implementations:
 1. **Initial Design** - a design that provides pure functionality
 2. **Final Design** - a design that optimises the initial design enhancing performance and readability of code
+### Key changes
+- removed magic numbers and added exceptions for exception handling
+- split user class up into multiple child classes to reduce coupling
 
+---
 ## Features
 - patient/staff Log in and sign up
 - Patient Check in
